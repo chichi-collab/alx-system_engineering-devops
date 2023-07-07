@@ -1,2 +1,2 @@
 #!/bin/bash
-14- chown -R vincent:staff * ./
+14- chown -R vincent:staff ./
